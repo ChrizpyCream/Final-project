@@ -1,6 +1,6 @@
 # Final-project
 
-Bowling game 
+Bowling game  
 Aspirations:
 I wanted to make a mini traditional bowling game from stracth that folllows the rules of consisting 10 rounds, up to 4 players, 10 pin In which the player enters how many pins are knocked down in each round. once the 10 rounds are up the program adds up all the scores for each player then determines who won that match. 
 
