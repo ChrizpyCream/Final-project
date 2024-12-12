@@ -1,0 +1,15 @@
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\obj\Debug\net8.0\Final-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\obj\Debug\net8.0\Final-project.AssemblyInfoInputs.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\obj\Debug\net8.0\Final-project.AssemblyInfo.cs
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\obj\Debug\net8.0\Final-project.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\obj\Debug\net8.0\Final-project.sourcelink.json
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\bin\Debug\net8.0\Final-project.exe
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\bin\Debug\net8.0\Final-project.deps.json
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\bin\Debug\net8.0\Final-project.runtimeconfig.json
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\bin\Debug\net8.0\Final-project.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\bin\Debug\net8.0\Final-project.pdb
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\obj\Debug\net8.0\Final-project.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\obj\Debug\net8.0\refint\Final-project.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\obj\Debug\net8.0\Final-project.pdb
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\obj\Debug\net8.0\Final-project.genruntimeconfig.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\Final-project\obj\Debug\net8.0\ref\Final-project.dll
